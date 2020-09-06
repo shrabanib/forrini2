@@ -21,3 +21,10 @@ body,
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
   background-color: #929FBA; }
+
+.myjumbo{
+  background-image: url("img/back1.jpg");
+  background-color: #929FBA;
+}
+
+
