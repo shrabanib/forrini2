@@ -23,8 +23,32 @@ body,
   background-color: #929FBA; }
 
 .myjumbo{
-  background-image: url("img/back1.jpg");
+  color: yellow;
   background-color: #929FBA;
+  font-family: 'Arizonia', cursive;
+}
+.mybody {
+  background-color: #FDEDEC;
 }
 
+.cardtext{
+  
+}
 
+.cardfont {
+  font-family: 'Cookie', cursive;
+  font-size: 45px;
+  color: #9900FF;
+}
+
+.myfoot {
+  background-color: #FF0097;
+}
+
+.mycat {
+  background-color: #66B6B4;
+}
+
+.navcol {
+  color: #84147D;
+}
